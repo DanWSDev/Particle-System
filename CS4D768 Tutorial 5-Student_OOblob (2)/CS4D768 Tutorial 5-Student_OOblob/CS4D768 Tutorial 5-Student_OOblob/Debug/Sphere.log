@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(504,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  app.cpp
+  BlobDemo.cpp
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(25,49): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(541,24): warning C4838: conversion from 'unsigned int' to 'char' requires a narrowing conversion
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(544,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(555,22): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  particle.cpp
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\src\particle.cpp(24,17): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\src\particle.cpp(39,23): warning C4056: overflow in floating-point constant arithmetic
+  pcontacts.cpp
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\src\pcontacts.cpp(86,28): warning C4056: overflow in floating-point constant arithmetic
+  pworld.cpp
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  particleCollision.cpp
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\Sphere\particleCollision.cpp(26,18): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  Generating Code...
+  Sphere.vcxproj -> C:\Users\danie\Downloads\New folder (13)\New folder\CS4D768 Tutorial 5-Student_OOblob (2)\CS4D768 Tutorial 5-Student_OOblob\CS4D768 Tutorial 5-Student_OOblob\Debug\Sphere.exe
